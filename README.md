@@ -5,4 +5,4 @@
 - Number 1: [Simple TabBar Onboarding](https://github.com/chrishoste/simpleTabBarOnboarding)
 - Number 2: [Printerest like floating Tab Bar](https://github.com/chrishoste/printeres-tabbar)
 - Number 3: [Bottom Search Bar](https://github.com/chrishoste/bottom-search-bar)
-- Number 4: [My Portfolio](https://github.com/chrishoste/.com) (I took the time to create my own site and look into Gatsby.)
+- Number 4: [My Portfolio](https://github.com/chrishoste/.com)
