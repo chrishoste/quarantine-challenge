@@ -6,3 +6,4 @@
 - Number 2: [Printerest like floating Tab Bar](https://github.com/chrishoste/printeres-tabbar)
 - Number 3: [Bottom Search Bar](https://github.com/chrishoste/bottom-search-bar)
 - Number 4: [My Portfolio](https://github.com/chrishoste/.com)
+- Number 5: [Code Verification & Custom Button](https://github.com/chrishoste/code-verification)
