@@ -7,3 +7,4 @@
 - Number 3: [Bottom Search Bar](https://github.com/chrishoste/bottom-search-bar)
 - Number 4: [My Portfolio](https://github.com/chrishoste/.com)
 - Number 5: [Code Verification & Custom Button](https://github.com/chrishoste/code-verification)
+- Number 6: [Smarthome Slider (UIControl)](https://github.com/chrishoste/slider-smarthome-lights)
