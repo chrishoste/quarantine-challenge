@@ -9,4 +9,4 @@
 - Number 5: Swift: [Code Verification & Custom Button](https://github.com/chrishoste/code-verification)
 - Number 6: Swift: [Smarthome Slider (UIControl)](https://github.com/chrishoste/slider-smarthome-lights)
 - Number 7: JS: [Some more Gatsby](https://github.com/chrishoste/gatsby) 😅 
-- Number 8: Swift/Adobe: [Tried out Lottie for iOS]() & [created my onw little animation in AI/AE](https://lottiefiles.com/share/8GgtAc)
+- Number 8: Swift/Adobe: [Tried out Lottie for iOS](https://github.com/chrishoste/lottie) & [created my onw little animation in AI/AE](https://lottiefiles.com/share/8GgtAc)
